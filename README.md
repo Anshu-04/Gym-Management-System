@@ -44,6 +44,7 @@ Create a `.env` file inside the `server/` directory with:
 PORT=5000
 MONGO_URI=your_mongo_connection_string
 JWT_SECRET=your_jwt_secret_key
+```
 
 📦 Installation
 Run frontend and backend separately
