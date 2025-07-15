@@ -33,7 +33,7 @@ A full-stack Gym Management System built with **MERN Stack** (MongoDB, Express, 
 ## 📁 Folder Structure
 
 gym-management-system/
-├── client/ # React + Vite frontend
+├── client/ # React + Vite frontend /n
 └── server/ # Node.js + Express backend
 
 ## ⚙️ Environment Variables
