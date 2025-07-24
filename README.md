@@ -30,7 +30,6 @@ A full-stack Gym Management System built with **MERN Stack** (MongoDB, Express, 
 - **Auth**: JWT stored in cookies
 - **State Management**: React Hooks
 
-
 ## ⚙️ Environment Variables
 
 Create a `.env` file inside the `server/` directory with:
@@ -45,19 +44,23 @@ JWT_SECRET=your_jwt_secret_key
 Run frontend and backend separately
 
 ▶️ Start Backend
+
 ```bash
 cd server
 npm install
 npm run dev
 ```
+
 Runs at: http://localhost:5000
 
 ▶️ Start Frontend
+
 ```bash
 cd client
 npm install
 npm run dev
 ```
+
 Runs at: http://localhost:5173
 
 ## 👨‍💻 Author
