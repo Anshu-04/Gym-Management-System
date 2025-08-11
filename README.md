@@ -63,6 +63,8 @@ npm run dev
 
 Runs at: http://localhost:5173
 
+## Check Live at: https://gym-management-system-front.onrender.com/
+
 ## 👨‍💻 Author
 
 Made with ❤️ by Anshu Patel
